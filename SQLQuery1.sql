@@ -66,6 +66,3 @@ CREATE TABLE AchievementType (
 		[ParticipationRate] decimal(3,2)
 		CONSTRAINT [PK_AchievementType] PRIMARY KEY (Id)
 )
-
-SELECT * FROM [Students];
-GO
